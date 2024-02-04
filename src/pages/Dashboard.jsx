@@ -1,7 +1,7 @@
 const Dashboard = () => {
   return (
     <div>
-    This is the Dashboard
+    Descubre mis proyectos
     </div>
   )
 }
